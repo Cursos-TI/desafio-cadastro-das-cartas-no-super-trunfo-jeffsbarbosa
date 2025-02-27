@@ -2,6 +2,8 @@
 
 int main(){
 
+    //nessa primeira parte, o usuário irá inserir os dados de duas cartas
+
     char estado1[50], estado2[50], codigocarta1[50], codigocarta2[50], nomedacidade1[50], nomedacidade2[50]; 
     int populacaocarta1, numerodepontosturisticoscarta1, populacaocarta2, numerodepontosturisticoscarta2; 
     float areacarta1, pibcarta1, areacarta2, pibcarta2;   
